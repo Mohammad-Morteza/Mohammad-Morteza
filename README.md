@@ -9,6 +9,9 @@
  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/>
 </h3>  
 <div align="center">
+<a href="mailto:mohammad.e.morteza1@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 <a href="https://www.linkedin.com/in/mohammad-morteza" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="https://www.linkedin.com/in/mohammad-morteza" height="30" width="40" /> </a>
 <a href="https://stackoverflow.com/users/24881039/mohammad-morteza" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="https://stackoverflow.com/users/20765298" height="30" width="40" /></a>
 </div>
@@ -16,7 +19,7 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h2 align="left">My Skills🔥:</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,cs,dotnet,html,css,js,sass" />
