@@ -7,10 +7,11 @@
  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/> 
  Contact with me
  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/>
+    
 </h3>  
 <div align="center">
-<a href="mailto:mohammad.e.morteza1@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="mailto:mohammad.e.morteza1@gmail.com" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" alt="mailto:mohammad.e.morteza1@gmail.com" height="30" width="40"/>
 </a>
 <a href="https://www.linkedin.com/in/mohammad-morteza" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="https://www.linkedin.com/in/mohammad-morteza" height="30" width="40" /> </a>
 <a href="https://stackoverflow.com/users/24881039/mohammad-morteza" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="https://stackoverflow.com/users/20765298" height="30" width="40" /></a>
